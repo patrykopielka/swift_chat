@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
@@ -31,3 +32,6 @@ using a .xib file
 <img src="https://github.com/patrykopielka/SwiftChat/blob/master/screenshots/chatScreen.png" width="200" height="400">
 
 
+=======
+# swift_chat
+>>>>>>> 29d4e2ea6f7c9d8d585862f9ace1734c90e7eed6
