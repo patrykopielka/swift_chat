@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
@@ -27,11 +26,7 @@ Project is created with:
 using a .xib file
 
 ## Screenshots
-<img src="https://github.com/patrykopielka/SwiftChat/blob/master/screenshots/welcomeScreen.png" width="200" height="400">
-<img src="https://github.com/patrykopielka/SwiftChat/blob/master/screenshots/logInScreen.png" width="200" height="400">
-<img src="https://github.com/patrykopielka/SwiftChat/blob/master/screenshots/chatScreen.png" width="200" height="400">
+<img src="https://github.com/patrykopielka/swift_chat/blob/main/screenshots/welcomeScreen.png" width="200" height="400">
+<img src="https://github.com/patrykopielka/swift_chat/blob/main/screenshots/logInScreen.png" width="200" height="400">
+<img src="https://github.com/patrykopielka/swift_chat/blob/main/screenshots/chatScreen.png" width="200" height="400">
 
-
-=======
-# swift_chat
->>>>>>> 29d4e2ea6f7c9d8d585862f9ace1734c90e7eed6
